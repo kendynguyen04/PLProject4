@@ -72,7 +72,7 @@ var list = function() {
         // iterator code here
         f.iterate = function(){
             var position = 0;
-            var current = l.head;
+            var current = l.head; //is this where the closure is...?
             var i = position;
             if(i < position)
             {
