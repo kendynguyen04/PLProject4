@@ -1,5 +1,5 @@
 /**
- * Created by Ken on 3/24/2016.
+ * Created by Ken and Jimmy on 3/24/2016.
  */
 
 var list = function() {
@@ -72,7 +72,7 @@ var list = function() {
         // iterator code here
         f.iterate = function(){
             var position = 0;
-            var current = l.head; 
+            var current = l.head;
             var i = position;
             if(i < position)
             {
